@@ -1,4 +1,4 @@
-# Lester Liang
+# Lester
 
 Software engineer building agentic AI systems, reliable developer tools, and explainable fintech products.
 
